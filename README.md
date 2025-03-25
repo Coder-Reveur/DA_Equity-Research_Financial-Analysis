@@ -84,4 +84,11 @@ The Power BI dashboards are organized into five interconnected sections:
 ---
 
 ## 📧 **Contact**  
-For questions or feedback, reach out to [Your Name](mailto:your.email@example.com).  
+For questions or feedback, reach out to:
+<p align="center">
+  <strong>📬 Let’s Connect!</strong>
+  <br>
+  <a href="https://www.linkedin.com/in/rishikesh-borah-3b245284/" target="_blank" style="display: inline-block; background-color: #0077B5; color: #fff; padding: 8px 16px; margin: 5px 10px; text-decoration: none; border-radius: 4px;">LinkedIn</a> | 
+  <a href="mailto:rishikesh.borah4@gmail.com" target="_blank" style="display: inline-block; background-color: #D44638; color: #fff; padding: 8px 16px; margin: 5px 10px; text-decoration: none; border-radius: 4px;">Email</a>
+</p>
+  
